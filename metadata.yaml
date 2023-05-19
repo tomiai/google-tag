@@ -1,0 +1,5 @@
+homepage: "https://tomi.ai"
+documentation: "https://docs.tomi.ai/pixel-setup-overview/"
+versions:
+  - sha: 99c18627b957ade3fc9d8b3399fa0bd10afef17f
+    changeNotes: Initial release.
