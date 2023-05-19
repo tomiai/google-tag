@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Tomi.AI Pixel",
+  "categories": ["ATTRIBUTION", "ADVERTISING", "CONVERSIONS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": ""
